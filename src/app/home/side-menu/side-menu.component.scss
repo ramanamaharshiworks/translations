@@ -1,0 +1,52 @@
+.example-form-field {
+  width:100%
+}
+
+li {
+  list-style-type: none;
+  padding:5px;
+  margin: 0px;
+  cursor: pointer;
+}
+
+ul {
+  padding:0px;
+  margin: 0px;
+}
+
+.app-top-description {
+  padding:10px;
+  color:#252525;
+  height:100px;
+  margin:0px!important;
+}
+
+.app-top-description {
+  font-size: medium;
+  margin:0px 0px 5px 0px!important;
+
+  .app-title{
+    font-size: x-large;
+    margin:0px 0px 10px 0px!important;
+  }
+  .app-subtitle-2{
+    font-size: medium;
+    color:gray
+  }
+}
+
+.app-paragraph-selected {
+  background-color: #f9f9f9;
+  border:1px solid gray!important;
+  color:black;
+  transition: 1s;
+}
+
+.app-paragraph-tile {
+  margin: 5px;
+  border:1px transparent
+}
+
+.app-paragraph-tile:hover {
+  background-color: #f9f9f9;
+}

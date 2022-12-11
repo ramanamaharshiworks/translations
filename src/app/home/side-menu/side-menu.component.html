@@ -1,0 +1,27 @@
+<div class="app-top-description" *ngIf="translation$ | async as translation">
+  <div class="app-title">{{ translation.name }}</div>
+  <div class="app-subtitle">{{ translation.translatedByNotes }}</div>
+  <div class="app-subtitle-2">{{ translation.adaptatedByNotes }}</div>
+</div>
+<mat-form-field class="example-form-field" appearance="fill">
+  <mat-label>Search</mat-label>
+  <input
+    matInput
+    type="text"
+    [(ngModel)]="search"
+    (keyup)="onSearchKeypress()"
+    (change)="onSearchKeypress()"
+  >
+  <button *ngIf="search" matSuffix mat-icon-button aria-label="Clear" (click)="onClearSearch()">
+    <mat-icon>close</mat-icon>
+  </button>
+</mat-form-field>
+<ul>
+  <li class="app-paragraph-tile"
+    *ngFor="let paragraph of paragraphs$ | async"
+    [ngClass]="{ 'app-paragraph-selected': paragraph.selected}"
+    (mouseup)="onParagraphSelected(paragraph)"
+  >
+    {{ paragraph.name }}
+  </li>
+</ul>

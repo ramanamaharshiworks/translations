@@ -1,0 +1,20 @@
+<div *ngIf="paragraph" class="app-paragraph">
+  <p class="title app-title">{{ paragraph.name }}</p>
+  <p class="app-highlight card app-font-large">
+    <span *ngFor="let contentPart of paragraph.content" class="app-paragraph-words-container"> <span
+      [matTooltip]="contentPart.tooltip ?? ''"
+      [matTooltipPosition]="'above'"
+      [matTooltipDisabled]="contentPart.tooltip == null"
+      [ngClass]="{ 'app-has-tooltip' : contentPart.tooltip }">{{ contentPart.text }} </span>&nbsp;</span>
+  </p>
+  <br />
+  <div *ngIf="paragraph.paraphrase" class="app-highlight card">
+    <p class="title app-title  app-font-medium">{{ paragraph.paraphraseTitle }}</p>
+    <p class="app-font-medium">
+      <span *ngFor="let paraphrasePart of paragraph.paraphrase" [ngClass]="{ 'app-is-bracket' : paraphrasePart.isBracket}">{{ paraphrasePart.text }}</span>
+    </p>
+  </div>
+  <hr *ngIf="paragraph.paraphrase"/>
+
+
+</div>

@@ -1,0 +1,19 @@
+<nav class="level app-translations-container">
+  <div (click)="onTranslationSelected(translation)" class="level-item app-translation-card" *ngFor="let translation of translations$ | async">
+    <div class="card">
+      <div class="card-content">
+        <div class="media">
+          <div class="media-content">
+            <p class="title is-4">{{ translation.name }}</p>
+          </div>
+        </div>
+
+        <div class="content">
+          {{ translation.translatedByNotes}}
+          <br>
+          {{ translation.adaptatedByNotes }}
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>

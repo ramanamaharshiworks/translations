@@ -1,0 +1,50 @@
+.app-highlight {
+  border-radius: 10px;
+  background-color: #f0f0f0;
+  line-height: 40px;
+  padding:25px
+}
+
+.app-font-large {
+  font-size: x-large;
+}
+
+.app-font-medium {
+  font-size: large;
+}
+
+.app-title {
+  color:black
+}
+
+.app-highlight:hover .app-has-tooltip {
+  cursor:initial;
+  border-bottom: 3px solid darkgray;
+  transition-duration: 0.5s;
+}
+
+.app-highlight .app-has-tooltip {
+  cursor:initial;
+  border-bottom: 1px solid lightgray;
+}
+.app-highlight .app-has-tooltip:hover {
+  cursor:pointer;
+}
+
+.app-highlight:hover .app-is-bracket {
+  background-color: white;
+  color:gray;
+  transition-duration: 0.5s;
+}
+
+.app-highlight .app-is-bracket {
+  transition-duration: 0.5s;
+}
+
+.app-paragraph {
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+.app-paragraph-words-container span{
+  display: inline-block;
+}

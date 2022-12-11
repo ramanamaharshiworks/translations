@@ -1,0 +1,16 @@
+<ng-container *ngIf="selectedWork$ | async as selectedWork; else workSelection">
+  <ng-container *ngIf="translation$ | async as selectedTranslation; else translationSection">
+    <!-- Renders the content below the main menu. -->
+    <section class="main-content is-fullheight">
+      <div *ngFor="let paragraph of paragraphs$ | async">
+        <app-paragraph [paragraph]="paragraph"></app-paragraph>
+      </div>
+    </section>
+  </ng-container>
+  <ng-template #translationSection>
+    <app-translation-selection></app-translation-selection>
+  </ng-template>
+</ng-container>
+<ng-template #workSelection>
+  <app-bio-content></app-bio-content>
+</ng-template>

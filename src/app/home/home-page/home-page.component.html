@@ -1,0 +1,24 @@
+<!-- Renders the main menu. -->
+<app-top-menu></app-top-menu>
+
+<ng-container *ngIf="selectedWork$ | async as selectedWork; else workSelection">
+  <ng-container *ngIf="selectedTranslation$ | async as selectedTranslation; else translationSection">
+    <!-- Renders the content below the main menu. -->
+    <section class="main-content columns is-fullheight">
+      <aside class="column is-3 is-narrow-mobile is-fullheight section is-hidden-mobile app-sidebar">
+        <!-- Renders the left side menu. -->
+        <app-side-menu></app-side-menu>
+      </aside>
+      <div class="container column is-8">
+        <!-- Renders the content with the paragraph and paraphase. -->
+        <app-home-content></app-home-content>
+      </div>
+    </section>
+  </ng-container>
+  <ng-template #translationSection>
+    <app-translation-selection></app-translation-selection>
+  </ng-template>
+</ng-container>
+<ng-template #workSelection>
+  <app-bio-content></app-bio-content>
+</ng-template>

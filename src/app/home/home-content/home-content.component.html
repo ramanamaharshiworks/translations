@@ -1,0 +1,7 @@
+
+<section class="hero">
+  <div class="hero-body" *ngIf="selectedParagraph$ | async as paragraph">
+    <app-top-carousel></app-top-carousel>
+    <app-paragraph [paragraph]="paragraph"></app-paragraph>
+  </div>
+</section>

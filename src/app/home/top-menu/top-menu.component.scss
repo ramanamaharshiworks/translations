@@ -1,0 +1,15 @@
+.navbar {
+  background-color: black;
+  color:white;
+}
+.navbar .navbar-item {
+  background-color: black;
+  color:#f0f0f0;
+}
+.navbar-item:hover {
+  background-color: dimgray!important;
+  color:#f0f0f0;
+}
+.app-work-selected {
+  border-bottom: 5px solid Gray;
+}
