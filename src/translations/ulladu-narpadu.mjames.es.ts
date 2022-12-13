@@ -173,7 +173,7 @@ Si la primera persona [ego] existe, las segundas y terceras personas [todas las 
 ---
 Verso 15
 
-El pasado y el futuro se mantienen agarrando el presente. Mientras ocurren, también son en realidad el presente. El presente es el único. No conociendo la realidad del ahora, tratar de conocer el pasado o el futuro es tratar de contar sin el uno.
+El pasado y el futuro se mantienen agarrando el presente. Mientras ocurren, también son en realidad el presente. El presente es el único:"Referiéndose al 'único tiempo' traducido por Michael James en inglés como 'The present is the only one'". No conociendo la realidad del ahora, tratar de conocer el pasado o el futuro es tratar de contar sin el uno.
 
 Paráfrasis explicativa:
 
@@ -318,7 +318,7 @@ Tan pronto como la mente alcanza el corazón [su núcleo y esencia, que es pura 
 ---
 Verso 31
 
-Para aquellos que son felicidad compuesta de eso, que se elevó destruyéndose a sí mismo, ¿qué una cosa existe para hacer? No conocen nada distinto de sí mismo; ¿quién puede concebir su estado como ‘así’?
+Para aquellos que son felicidad compuesta de eso, que se elevó destruyéndose a sí mismo, ¿qué una:"Refiriendose a 'una accion', traducido originalmente por Michael James como 'What one exists for doing?'" existe para hacer? No conocen nada distinto de sí mismo; ¿quién puede concebir su estado como ‘así’?
 
 Paráfrasis explicativa:
 
