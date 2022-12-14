@@ -16,6 +16,11 @@ export class TranslationListPageComponent implements OnInit {
     this.workId = this.route.snapshot.params["name"];
     this.dataService.selectWorkById(this.workId);
     this.translations$ = dataService.getTranslations();
+	
+	if (this.workId == null) {
+		router.navigate(["ulladu-narpadu","michael-james-espanol"]);
+		return;
+	}
   }
 
   ngOnInit(): void {}

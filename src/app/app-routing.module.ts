@@ -5,6 +5,7 @@ import { ParagraphListPageComponent } from './home/paragraph-list-page/paragraph
 import { TranslationListPageComponent } from './home/translation-list-page/translation-list-page.component';
 
 const routes: Routes = [
+	{path: "", component: TranslationListPageComponent},
   {
     path: ":name/:translation",
     component: ParagraphListPageComponent
