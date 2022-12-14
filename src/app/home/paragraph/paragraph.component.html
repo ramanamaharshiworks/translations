@@ -2,7 +2,9 @@
   <p class="title app-title">{{ paragraph.name }}</p>
   <p class="app-highlight card app-font-large">
     <span *ngFor="let contentPart of paragraph.content" class="app-paragraph-words-container"> <span
-      [matTooltip]="contentPart.tooltip ?? ''"
+	  #tooltip
+	  [matTooltipTouchGestures]="'on'"
+	  [matTooltip]="contentPart.tooltip ?? ''"
       [matTooltipPosition]="'above'"
       [matTooltipDisabled]="contentPart.tooltip == null"
       [ngClass]="{ 'app-has-tooltip' : contentPart.tooltip }">{{ contentPart.text }} </span>&nbsp;</span>

@@ -32,7 +32,7 @@ Verso Mangalam 2
 
 Las personas de corazón puro que tienen miedo intenso a la muerte se refugiarán a
 los pies de Dios, el cual está desprovisto de nacimiento y de muerte, como
-fortaleza:"refugio o bastión". Al refugiarse, experimentan la muerte. ¿Se asociarán con el pensamiento de la muerte aquellos que no tienen muerte?
+fortaleza:"Refiriéndose a refugio o bastión, traducido por Michael James al inglés como 'fortress'". Al refugiarse, experimentan la muerte. ¿Se asociarán con el pensamiento de la muerte aquellos que no tienen muerte?
 
 Paráfrasis explicativa:
 
