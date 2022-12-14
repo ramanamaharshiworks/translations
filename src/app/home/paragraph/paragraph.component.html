@@ -10,13 +10,11 @@
       [ngClass]="{ 'app-has-tooltip' : contentPart.tooltip }">{{ contentPart.text }} </span>&nbsp;</span>
   </p>
   <br />
-  <div *ngIf="paragraph.paraphrase" class="app-highlight card">
+  <div *ngIf="paragraph.paraphrase && paragraph.paraphrase.length > 0" class="app-highlight card">
     <p class="title app-title  app-font-medium">{{ paragraph.paraphraseTitle }}</p>
     <p class="app-font-medium">
       <span *ngFor="let paraphrasePart of paragraph.paraphrase" [ngClass]="{ 'app-is-bracket' : paraphrasePart.isBracket}">{{ paraphrasePart.text }}</span>
     </p>
   </div>
   <hr *ngIf="paragraph.paraphrase"/>
-
-
 </div>

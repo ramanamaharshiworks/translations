@@ -38,7 +38,12 @@ const translation = (translation:Translation, content:string):Translation => {
 };
 
 function getParaphraseParts(paraphrase:string):ParaphrasePart[]{
+	if (paraphrase == null){
+		return [];
+	}
   const paraphraseParts = [];
+  
+
   let currentIndex = 0;
 
   while (currentIndex < paraphrase.length) {

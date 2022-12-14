@@ -68,7 +68,7 @@ Verso 3
 
 ¿De qué sirve discutir: “El mundo es real”, “una apariencia irreal”; “el mundo es sintiente”, “no lo es”; “el mundo es felicidad”, “no lo es”? Dejando el mundo e investigándose uno mismo, cesando uno y dos, ese estado en que ‘yo’ ha perecido es grato:"Refiriendose a que es generalmente preferible o aceptable, traducido por Michael James al ingles como 'agreeable to all'" para todos.
 
-Explanatory paraphrase:
+Paráfrasis explicativa:
 
 ¿De qué sirve discutir: ‘El mundo es real’, ‘[No, es] una apariencia irreal’; ‘El mundo es sintiente’, ‘no lo es’; ‘El mundo es felicidad’, ‘no lo es’? Dejando [todo pensamiento sobre] el mundo e investigándose [o conociéndose] uno mismo, [por tanto] poniendo fin a [todas las discusiones sobre] uno y dos [no-dualidad y dualidad], ese estado en que ‘yo’ [ego] ha perecido [por tanto] es grato para todos.
 
@@ -174,7 +174,7 @@ Si la primera persona [ego] existe, las segundas y terceras personas [todas las 
 ---
 Verso 15
 
-El pasado y el futuro se mantienen agarrando el presente. Mientras ocurren, también son en realidad el presente. El presente es el único:"Referiéndose al 'único tiempo' traducido por Michael James en inglés como 'The present is the only one'". No conociendo la realidad del ahora, tratar de conocer el pasado o el futuro es tratar de contar sin el uno.
+El pasado y el futuro se mantienen agarrando el presente. Mientras ocurren, también son en realidad el presente. El presente es el único:"Referiéndose al 'único tiempo' traducido por Michael James al inglés como 'The present is the only one'". No conociendo la realidad del ahora, tratar de conocer el pasado o el futuro es tratar de contar sin el uno.
 
 Paráfrasis explicativa:
 
@@ -192,7 +192,7 @@ Cuando [nos] investigamos, excepto nosotros, ¿dónde está el tiempo? ¿Dónde 
 ---
 Verso 17
 
-Para los que no se conocen a sí mismo, para:"Omision intencional de la conjuncióno copulativa 'y', traducido por Michael James al inglés como 'For those who do not know themself, for those who have known themself'" los que se han conocido a sí mismo:"Uso intencional de la forma singular 'mismo', traducido por Michael James al inglés como 'themself'", el cuerpo es en realidad ‘yo’. Para los que no se conocen a sí mismo, ‘yo’ es solo la medida del cuerpo; para los que se han conocido a sí mismo dentro del cuerpo, uno mismo, ‘yo’, brilla sin límite. Considera que la diferencia entre ellos es solo esta.
+Para los que no se conocen a sí mismo, para:"Omision intencional de la conjunción copulativa 'y', traducido por Michael James al inglés como 'For those who do not know themself, for those who have known themself'" los que se han conocido a sí mismo:"Uso intencional de la forma singular 'mismo', traducido por Michael James al inglés como 'themself'", el cuerpo es en realidad ‘yo’. Para los que no se conocen a sí mismo, ‘yo’ es solo la medida del cuerpo; para los que se han conocido a sí mismo dentro del cuerpo, uno mismo, ‘yo’, brilla sin límite. Considera que la diferencia entre ellos es solo esta.
 
 Paráfrasis explicativa:
 
@@ -401,7 +401,7 @@ Solo mientras uno diga ‘soy alguien atado’ [es decir, solo mientras uno se e
 ---
 Verso 40
 
-Si se dice que la liberación que uno experimentará es tres, forma, sin forma, forma-sin forma:"Uso del '-' para reflejar la conjunción de 'forma' [En inglés 'form'] y sin forma [En ingles 'formless']", yo diré\u003A La forma-ego, que distingue forma, sin forma, forma-sin forma , siendo destruida es liberación. Conoce.
+Si se dice que la liberación que uno experimentará es tres, forma, sin forma, forma-sin forma:"Uso del '-' para reflejar la conjunción de 'forma' [En inglés 'form'] y sin forma [En inglés 'formless']", yo diré\u003A La forma-ego, que distingue forma, sin forma, forma-sin forma , siendo destruida es liberación. Conoce.
 
 Paráfrasis explicativa:
 
