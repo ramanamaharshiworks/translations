@@ -4,14 +4,12 @@ import { HomePageComponent } from './home/home-page/home-page.component';
 import { ParagraphListPageComponent } from './home/paragraph-list-page/paragraph-list-page.component';
 import { TranslationListPageComponent } from './home/translation-list-page/translation-list-page.component';
 
-const routes: Routes = [{
-  path: "home",
-    component: HomePageComponent
-  }, {
-    path: "work/:name/:translation",
+const routes: Routes = [
+  {
+    path: ":name/:translation",
     component: ParagraphListPageComponent
   }, {
-    path: "work/:name",
+    path: ":name",
     component: TranslationListPageComponent
   }
 ];

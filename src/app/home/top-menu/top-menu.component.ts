@@ -21,7 +21,7 @@ export class TopMenuComponent implements OnInit {
 
   onWorkSelected(work:Work): void {
     this.dataService.selectWork(work);
-    this.router.navigate(["work", work.id]);
+    this.router.navigate([work.id]);
   }
 
   onNoWorkSelected(): void {

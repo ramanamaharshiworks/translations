@@ -7,6 +7,7 @@ export interface Work {
 export interface Translation {
   workId:string,
   name:string,
+  urlId:string,
   paragraphs?:Paragraph[],
   translatedByNotes:string,
   adaptatedByNotes:string,

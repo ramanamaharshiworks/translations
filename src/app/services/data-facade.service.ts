@@ -149,10 +149,10 @@ export class DataFacadeService {
     this._selectedParagraph = null;
   }
 
-  selectTranslationByName(workName:string, translationName:string){
+  selectTranslationByUrlId(workName:string, translationUrlId:string){
     const matchedWorks = works.filter( work => work.id == workName );
     this.selectWork(matchedWorks[0]);
-    const matchedTranslations = translations.filter( translation => translation.name == translationName );
+    const matchedTranslations = translations.filter( translation => translation.urlId == translationUrlId );
     if (matchedTranslations.length > 0){
       this.selectTranslation(matchedTranslations[0]);
     }

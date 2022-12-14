@@ -6,7 +6,8 @@ const ulladu_narpadu_mjames_en = () => translation(
     name : "Ulladu Narpadu - English",
     subtitle: "Forty verses about Reality",
     translatedByNotes : "Translated by Michael James",
-    adaptatedByNotes : "English"
+    adaptatedByNotes : "English",
+	urlId:"michael-james-english"
   },
 `
 Benedictory Verse 1

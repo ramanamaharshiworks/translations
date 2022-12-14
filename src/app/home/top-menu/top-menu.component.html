@@ -1,21 +1,15 @@
-<!-- Navigation bar -->
-<nav class="navbar is-primary is-fullwidth">
-  <div class="navbar-brand">
-    <a class="navbar-item">Ramana Maharshi</a>
-    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-    </a>
-  </div>
-
-  <div class="navbar-menu snip1211">
-    <a class="navbar-item"
-      *ngFor="let work of works$ | async"
-      [ngClass]="{ 'app-work-selected' : work.selected }"
-      (click)="onWorkSelected(work)"
-    >
-      {{ work.name }}
-    </a>
-  </div>
-</nav>
+<mat-toolbar class="app-toolbar">
+	<mat-toolbar-row>
+	  <h1 class="app-toolbar-home">Ramana Maharshi</h1>
+	  <span class="menu-spacer"></span>
+	  <div>
+		<a mat-button 
+			[routerLink]="'/accounts'" 
+			class="app-toolbar-item"
+			*ngFor="let work of works$ | async"
+			[ngClass]="{ 'app-work-selected' : work.selected }"
+			(click)="onWorkSelected(work)"
+		>{{ work.name }}</a>
+	  </div>
+	</mat-toolbar-row>
+  </mat-toolbar>

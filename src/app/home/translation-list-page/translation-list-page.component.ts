@@ -21,6 +21,6 @@ export class TranslationListPageComponent implements OnInit {
   ngOnInit(): void {}
 
   onTranslationSelected(translation:Translation):void {
-    this.router.navigate(["work", this.workId, translation.name ]);
+    this.router.navigate([this.workId, translation.urlId ]);
   }
 }

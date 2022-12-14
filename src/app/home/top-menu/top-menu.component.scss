@@ -1,15 +1,24 @@
-.navbar {
+.app-toolbar {
+  font-size: 16px;
   background-color: black;
   color:white;
 }
-.navbar .navbar-item {
+.app-toolbar-home {
+	font-size: 16px;
+	background-color: black;
+	color:#f0f0f0;
+	padding-right: 15px;
+}
+.app-toolbar-item {
   background-color: black;
   color:#f0f0f0;
+  padding: 10px;
+  font-weight: normal;
 }
-.navbar-item:hover {
-  background-color: dimgray!important;
+.app-toolbar-item:hover {
+  border-bottom: 2px solid gray;
   color:#f0f0f0;
 }
 .app-work-selected {
-  border-bottom: 5px solid Gray;
+  border-bottom: 2px solid lightgray;
 }

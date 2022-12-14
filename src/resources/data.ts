@@ -4,7 +4,6 @@ import { ulladu_narpadu_mjames_en  } from "src/translations/ulladu-narpadu.mjame
 
 const works:Work[] = [
   { id : "ulladu-narpadu", name: "Ulladu Narpadu", selected: false },
-  { id : "nan-yar", name: "Nan yar", selected: false },
 ];
 
 const translations:Translation[] = [

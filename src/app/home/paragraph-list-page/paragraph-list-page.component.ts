@@ -25,7 +25,7 @@ export class ParagraphListPageComponent implements OnInit {
       this.paragraphs$ = this.dataService.getParagraphs();
       this.selectedWork$ = this.dataService.getSelectedWork();
 
-      this.dataService.selectTranslationByName(workName, workTranslation);
+      this.dataService.selectTranslationByUrlId(workName, workTranslation);
     });
   }
 
