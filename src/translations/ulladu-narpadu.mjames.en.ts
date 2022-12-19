@@ -4,9 +4,9 @@ const ulladu_narpadu_mjames_en = () => translation(
   {
     workId: "ulladu-narpadu",
     name : "Ulladu Narpadu - English",
-    subtitle: "Forty verses about reality",
+    subtitle: "Forty Verses on What Is",
     translatedByNotes : "Translated by Michael James",
-    adaptatedByNotes : "English",
+    adaptatedByNotes : "Translated by Michael James",
 	urlId:"michael-james-english"
   },
 `

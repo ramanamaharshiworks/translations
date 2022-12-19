@@ -6,7 +6,7 @@ const ulladu_narpadu_mjames_es = () => translation(
     name : "Ulladu Narpadu - Español",
     subtitle: "Cuarenta versos acerca de la realidad",
     translatedByNotes : "Traducido por Michael James",
-    adaptatedByNotes : "Adaptado al espanol",
+    adaptatedByNotes : "Adaptado al español de la traducción original de Michael James",
 	urlId: "michael-james-espanol"
   },
 `

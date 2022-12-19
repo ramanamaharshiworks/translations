@@ -1,5 +1,5 @@
 <div *ngIf="paragraph" class="app-paragraph">
-  <p class="title app-title">{{ paragraph.name }}</p>
+  <p class="app-title">{{ paragraph.name }}</p>
   <p class="app-highlight card app-font-large">
     <span *ngFor="let contentPart of paragraph.content" class="app-paragraph-words-container"> <span
 	  #tooltip
@@ -11,7 +11,7 @@
   </p>
   <br />
   <div *ngIf="paragraph.paraphrase && paragraph.paraphrase.length > 0" class="app-highlight card">
-    <p class="title app-title  app-font-medium">{{ paragraph.paraphraseTitle }}</p>
+    <p class="app-paraphrase-title  app-font-medium">{{ paragraph.paraphraseTitle }}</p>
     <p class="app-font-medium">
       <span *ngFor="let paraphrasePart of paragraph.paraphrase" [ngClass]="{ 'app-is-bracket' : paraphrasePart.isBracket}">{{ paraphrasePart.text }}</span>
     </p>

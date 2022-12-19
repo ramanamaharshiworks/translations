@@ -10,11 +10,13 @@
 }
 
 .app-font-medium {
-  font-size: large;
+  font-size: medium;
 }
 
 .app-title {
-  color:black
+  color:black;
+  font-size: x-large;
+  font-weight: bold;
 }
 
 .app-highlight:hover .app-has-tooltip {
@@ -47,4 +49,9 @@
 }
 .app-paragraph-words-container span{
   display: inline-block;
+}
+
+.app-paraphrase-title {
+	font-size: 22px;
+	font-weight: bold;
 }
