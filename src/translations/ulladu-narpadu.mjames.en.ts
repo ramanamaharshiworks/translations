@@ -4,7 +4,7 @@ const ulladu_narpadu_mjames_en = () => translation(
   {
     workId: "ulladu-narpadu",
     name : "Ulladu Narpadu - English",
-    subtitle: "Forty verses about Reality",
+    subtitle: "Forty verses about reality",
     translatedByNotes : "Translated by Michael James",
     adaptatedByNotes : "English",
 	urlId:"michael-james-english"
@@ -387,14 +387,6 @@ Explanatory paraphrase:
 
 If it is said that mukti [liberation] that one will experience [or that one will attain, or that will happen] is of three kinds, with form, without form, or either with form or without form [that is, a state in which one can alternate back and forth between being a form or being formless], I will say: [Only] destruction of the ego-form [the form-bound ego], which distinguishes [these three kinds of liberation], with form, without form, or either with form or without form, is mukti. Know.
 
----
-verso 41
-
-Test
-
-Para
-
-Test 2
 `);
 
 export { ulladu_narpadu_mjames_en };
