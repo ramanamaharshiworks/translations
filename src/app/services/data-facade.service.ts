@@ -152,7 +152,9 @@ export class DataFacadeService {
   selectTranslationByUrlId(workName:string, translationUrlId:string){
     const matchedWorks = works.filter( work => work.id == workName );
     this.selectWork(matchedWorks[0]);
-    const matchedTranslations = translations.filter( translation => translation.urlId == translationUrlId );
+    const matchedTranslations = translations.filter( 
+		translation => translation.urlId == translationUrlId && translation.workId == workName
+	);
     if (matchedTranslations.length > 0){
       this.selectTranslation(matchedTranslations[0]);
     }

@@ -10,6 +10,11 @@ const ulladu_narpadu_mjames_en = () => translation(
 	urlId:"michael-james-english"
   },
 `
+Introductory Verse 
+
+When Muruganar asked, 'So that we may be saved, reveal to us the nature of reality and the means by which to attain [reach or join] it', the noble Ramana, because he is free from the delusion of the unreal world, joyfully and with certainty composed Uḷḷadu Nāṟpadu [Forty Verses on What Exists].
+
+---
 Benedictory Verse 1
 
 If what exists were not, would existing awareness exist? Since the existing substance exists in the heart without thought, how to think of the existing substance, which is called ‘heart’? Being in the heart as it is alone is thinking. Know.

@@ -10,6 +10,11 @@ const ulladu_narpadu_mjames_es = () => translation(
 	urlId: "michael-james-espanol"
   },
 `
+Verso Introductorio
+
+Cuando Muruganar preguntó, "Para que podamos ser salvados, revélanos la naturaleza de la realidad y el medio por el cual alcanzarla [llegar a o unirnos a ella]", el noble Ramana, dado que él está libre de la ilusión del mundo irreal,  jubilosamente y con certeza compuso Uḷḷadu Nāṟpadu [Cuarenta versos acerca de la realidad].
+
+---
 Verso Mangalam 1
 
 Si lo que existe no fuese, ¿existiría consciencia existente? Dado que la substancia existente existe sin pensamiento en el corazón, ¿cómo pensar en la substancia existente, que es llamada “corazón”? Solo ser en el corazón como es es pensar. Conoce.
