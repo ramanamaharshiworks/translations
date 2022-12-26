@@ -6,7 +6,7 @@
 		<a mat-button 
 			[routerLink]="'/accounts'" 
 			class="app-toolbar-item"
-			*ngFor="let work of works$ | async"
+			*ngFor="let work of works"
 			[ngClass]="{ 'app-work-selected' : work.selected }"
 			(click)="onWorkSelected(work)"
 		>{{ work.name }}</a>

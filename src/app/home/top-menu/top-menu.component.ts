@@ -1,6 +1,6 @@
-import { Component, OnInit, ChangeDetectionStrategy } from '@angular/core';
+import { Component, OnInit, ChangeDetectionStrategy, OnDestroy } from '@angular/core';
 import { Router } from '@angular/router';
-import { Observable } from 'rxjs';
+import { filter, Observable, Subscription, takeWhile } from 'rxjs';
 import { DataFacadeService } from 'src/app/services/data-facade.service';
 import { Work } from 'src/resources/types';
 
@@ -10,13 +10,20 @@ import { Work } from 'src/resources/types';
   styleUrls: ['./top-menu.component.scss'],
   changeDetection: ChangeDetectionStrategy.OnPush
 })
-export class TopMenuComponent implements OnInit {
-  works$?:Observable<Work[]>;
+export class TopMenuComponent implements OnInit, OnDestroy {
+  works?:Work[];
+  worksSubscription?:Subscription;
 
   constructor(private dataService:DataFacadeService, private router:Router) { }
 
+  ngOnDestroy(): void {
+	this.worksSubscription?.unsubscribe();
+  }
+
   ngOnInit(): void {
-    this.works$ = this.dataService.getWorks();
+    this.worksSubscription = this.dataService.getWorks().subscribe(
+		n => this.works = n.filter( n => !n.workInProgress)
+	)
   }
 
   onWorkSelected(work:Work): void {

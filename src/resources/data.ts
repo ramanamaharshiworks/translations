@@ -6,8 +6,8 @@ import { nan_yar_mjames_en } from "src/translations/nan-ar.mjames.en";
 import { nan_yar_mjames_es } from "src/translations/nan-ar.mjames.es";
 
 const works:Work[] = [
-  { id : "ulladu-narpadu", name: "Ulladu Narpadu", selected: false },
-  { id : "nan-yar", name: "Nāṉ Ār?", selected: false }
+  { id : "ulladu-narpadu", name: "Ulladu Narpadu", selected: false, workInProgress: false },
+  { id : "nan-yar", name: "Nāṉ Ār?", selected: false, workInProgress: true }
 ];
 
 const translations:Translation[] = [

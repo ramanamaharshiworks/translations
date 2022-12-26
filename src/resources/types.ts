@@ -1,7 +1,8 @@
 export interface Work {
   id:string,
   name:string,
-  selected:boolean
+  selected:boolean,
+  workInProgress:boolean
 }
 
 export interface Translation {
