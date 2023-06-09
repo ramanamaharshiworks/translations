@@ -21,7 +21,8 @@ export interface Paragraph{
   content:ContentPart[],
   paraphraseTitle?:string,
   paraphrase?:ParaphrasePart[],
-  selected?:boolean
+  selected?:boolean,
+  isTranslationSummary:boolean
 }
 
 export interface ContentPart {

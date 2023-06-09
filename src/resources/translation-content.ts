@@ -31,6 +31,8 @@ const translation = (translation:Translation, content:string):Translation => {
       paraphrase : getParaphraseParts(sections[3])
     };
 
+	paragraph.isTranslationSummary = paragraph.name.startsWith("*");
+	paragraph.name = paragraph.name.replace("*","")
     result.paragraphs?.push(paragraph);
   });
 
@@ -69,15 +71,44 @@ function getParaphraseParts(paraphrase:string):ParaphrasePart[]{
   }));
 }
 
+function flattenContentParts(contentParts:ContentPart[]):ContentPart[] {
+	let flattenedText = "";
+	const result:ContentPart[] = [];
+	
+	for (let i = 0; i < contentParts.length; i ++) {
+		const contentPart = contentParts[i];
+		if (contentPart.tooltip) {
+			result.push({
+				text : flattenedText + " "
+			});
+			result.push({
+				text : contentPart.text,
+				tooltip: contentPart.tooltip
+			});
+			flattenedText = "";
+		} else {
+			flattenedText += " " + contentPart.text;
+		}
+	}
+	if (flattenedText.length > 0) {
+		result.push({
+			text : flattenedText
+		});
+	}
+
+	return result;
+}
+
 function getContentParts(content:string):ContentPart[]{
   const result:ContentPart[] = [];
+  content = content.replace("<br/>", " <br/> ");
   const contentParts = content.match(/(?:[^\s"]+|"[^"]*")+/g);
   if (contentParts == null)
     return [];
 
   for (let i = 0; i < contentParts.length; i++) {
     const contentPart = contentParts[i];
-    const contentPartSections = contentPart.split(":");
+    const contentPartSections = contentPart.split("|");
     let tooltip:string|undefined = undefined;
     let text = contentPartSections[0];
 
@@ -93,13 +124,13 @@ function getContentParts(content:string):ContentPart[]{
       );
     }
 
-    result.push({
-      text: text,
-      tooltip: tooltip
-    });
+	result.push({
+		text: text,
+		tooltip: tooltip
+	});
   }
 
-  return result;
+  return flattenContentParts(result);
 }
 
 export { translation }
