@@ -10,6 +10,11 @@ const ulladu_narpadu_mjames_es = () => translation(
 	urlId: "michael-james-espanol"
   },
 `
+*Introducción a la tranducción
+
+De todas las obras de Bhagavan, se puede decir que Uḷḷadu Nāṟpadu es el texto más fundamental e importante, y creo que no sería exagerado decir que, a menos que uno haya absorbido en gran medida la importancia total de estos cuarenta y dos versos (dos versos maṅgalam y cuarenta versos del texto principal) habiendo estudiado cuidadosamente y reflexionado profundamente sobre el significado de cada uno de ellos y las estrechas conexiones coherentes entre las ideas expresadas y, por supuesto, tratando en lo posible de seguir el simple camino de la investigación quién soy yo. -investigación que él enseña en ellos, no es posible para uno captar y apreciar adecuadamente la profundidad real y la importancia radical de sus enseñanzas, porque muchos de los principios clave de sus enseñanzas no se expresan en ninguna parte con tanta claridad y coherencia como lo están en estos versos <p /><p /> Por ejemplo, en Uḷḷadu Nāṟpadu deja muy claro por qué la investigación quién soy yo (ātma-vicāra) es el único medio por el cual podemos erradicar el ego (la primera persona o sujeto) y por lo tanto toda su progenie (todas las segundas y terceras personas u objetos), porque el ego, que él describe en el versículo 25 como un "fantasma sin forma", es una falsa autoconciencia, una conciencia de nosotros mismos como un cuerpo compuesto de cinco envolturas (como señala en versículos 5 y 24), mientras que lo que en realidad somos no es un fenómeno transitorio, sino una conciencia pura, infinita, indivisible, eterna e inmutable (como señala en los versículos 12 y 13), y llega a una aparente existencia y se sostiene únicamente captando la forma de un cuerpo como sí mismo, y se nutre y sustenta captando otras formas (es decir, siendo consciente de cualquier otra cosa que no sea él), por lo que se disolverá y desaparecerá sólo cuando intente captarse a sí mismo (es decir, sólo cuando se investigue a sí mismo tan profundamente que deje de ser consciente de cualquier otra cosa). También aclara (por ejemplo, en los versículos 6, 7, 14, 23 y 26) que todo lo demás parece existir solo cuando somos conscientes de nosotros mismos como este ego o mente, porque todas las demás cosas (todos los fenómenos) son formas. que percibimos solo cuando nos percibimos a nosotros mismos como una forma (como dice en los versos 4 y 5), entonces cuando este ego no existe nada más existe, y por lo tanto investigar qué es este ego es renunciar a todo (como dice en el verso 26).<p /><p />(Extraido de <a target="_blank" href="https://happinessofbeing.blogspot.com/2017/10/ulladu-narpadu-tamil-text.html">https://happinessofbeing.blogspot.com/2017/10/ulladu-narpadu-tamil-text.html</a>)
+
+---
 Verso Introductorio
 
 Cuando Muruganar preguntó, "Para que podamos ser salvados, revélanos la naturaleza de la realidad y el medio por el cual alcanzarla [llegar a o unirnos a ella]", el noble Ramana, dado que él está libre de la ilusión del mundo irreal,  jubilosamente y con certeza compuso Uḷḷadu Nāṟpadu [Cuarenta versos acerca de la realidad].
@@ -37,7 +42,7 @@ Verso Mangalam 2
 
 Las personas de corazón puro que tienen miedo intenso a la muerte se refugiarán a
 los pies de Dios, el cual está desprovisto de nacimiento y de muerte, como
-fortaleza:"Refiriéndose a refugio o bastión, traducido por Michael James al inglés como 'fortress'". Al refugiarse, experimentan la muerte. ¿Se asociarán con el pensamiento de la muerte aquellos que no tienen muerte?
+fortaleza|"Refiriéndose a refugio o bastión, traducido por Michael James al inglés como 'fortress'". Al refugiarse, experimentan la muerte. ¿Se asociarán con el pensamiento de la muerte aquellos que no tienen muerte?
 
 Paráfrasis explicativa:
 
@@ -62,7 +67,7 @@ Dado que nosotros [como ego] vemos el mundo, aceptar un mudal [primera cosa, ori
 ---
 Verso 2
 
-Toda religión acepta inicialmente tres fundamentos. Decir que “Solo un fundamento se erige como tres fundamentos”, “Los tres fundamentos siempre son realmente tres fundamentos”, es solo mientras ego:"Omisión intencional del articulo definido 'el', traducido por Michael James como 'so long as ego exists'" exista. Pereciendo ‘yo’, mantenerse de pie en el estado de uno mismo es lo mejor.
+Toda religión acepta inicialmente tres fundamentos. Decir que “Solo un fundamento se erige como tres fundamentos”, “Los tres fundamentos siempre son realmente tres fundamentos”, es solo mientras ego|"Omisión intencional del articulo definido 'el', traducido por Michael James como 'so long as ego exists'" exista. Pereciendo ‘yo’, mantenerse de pie en el estado de uno mismo es lo mejor.
 
 Paráfrasis explicativa:
 
@@ -71,7 +76,7 @@ Toda religión [o sistema teísta de creencias] acepta inicialmente tres fundame
 ---
 Verso 3
 
-¿De qué sirve discutir: “El mundo es real”, “una apariencia irreal”; “el mundo es sintiente”, “no lo es”; “el mundo es felicidad”, “no lo es”? Dejando el mundo e investigándose uno mismo, cesando uno y dos, ese estado en que ‘yo’ ha perecido es grato:"Refiriendose a que es generalmente preferible o aceptable, traducido por Michael James al ingles como 'agreeable to all'" para todos.
+¿De qué sirve discutir: “El mundo es real”, “una apariencia irreal”; “el mundo es sintiente”, “no lo es”; “el mundo es felicidad”, “no lo es”? Dejando el mundo e investigándose uno mismo, cesando uno y dos, ese estado en que ‘yo’ ha perecido es grato|"Refiriendose a que es generalmente preferible o aceptable, traducido por Michael James al ingles como 'agreeable to all'" para todos.
 
 Paráfrasis explicativa:
 
@@ -116,7 +121,7 @@ Aunque el mundo y la consciencia [la consciencia que percibe el mundo, es decir,
 ---
 Verso 8
 
-Quien adora en cualquier forma dando cualquier nombre, esa es la manera de ver esa substancia en nombre y forma. Sin embargo, investigando la realidad de uno mismo, disolviéndose en la realidad de esa substancia verdadera, solo devenir uno:"Connotación cuantitativa" es ver en realidad. Conoce.
+Quien adora en cualquier forma dando cualquier nombre, esa es la manera de ver esa substancia en nombre y forma. Sin embargo, investigando la realidad de uno mismo, disolviéndose en la realidad de esa substancia verdadera, solo devenir uno|"Connotación cuantitativa" es ver en realidad. Conoce.
 
 Paráfrasis explicativa:
 
@@ -152,7 +157,7 @@ En vez de conocer [la realidad de] uno mismo [ego], quien conoce [todo lo demás
 ---
 Verso 12
 
-Lo que está desprovisto de conocimiento e ignorancia es verdaderamente conocimiento. Lo que conoce no es conocimiento real. Puesto que uno brilla sin otro para conocer o para propiciar el conocer, uno mismo es conocimiento. Uno no es vacío:"Omisión intencional del articulo indefinido 'un', traducido al inglés por Michael James como 'one is not void'". Conoce.
+Lo que está desprovisto de conocimiento e ignorancia es verdaderamente conocimiento. Lo que conoce no es conocimiento real. Puesto que uno brilla sin otro para conocer o para propiciar el conocer, uno mismo es conocimiento. Uno no es vacío|"Omisión intencional del articulo indefinido 'un', traducido al inglés por Michael James como 'one is not void'". Conoce.
 
 Paráfrasis explicativa:
 
@@ -179,7 +184,7 @@ Si la primera persona [ego] existe, las segundas y terceras personas [todas las 
 ---
 Verso 15
 
-El pasado y el futuro se mantienen agarrando el presente. Mientras ocurren, también son en realidad el presente. El presente es el único:"Referiéndose al 'único tiempo' traducido por Michael James al inglés como 'The present is the only one'". No conociendo la realidad del ahora, tratar de conocer el pasado o el futuro es tratar de contar sin el uno.
+El pasado y el futuro se mantienen agarrando el presente. Mientras ocurren, también son en realidad el presente. El presente es el único|"Referiéndose al 'único tiempo' traducido por Michael James al inglés como 'The present is the only one'". No conociendo la realidad del ahora, tratar de conocer el pasado o el futuro es tratar de contar sin el uno.
 
 Paráfrasis explicativa:
 
@@ -188,7 +193,7 @@ El pasado y el futuro se mantienen agarrando [o dependiendo del] presente. Mient
 ---
 Verso 16
 
-Cuando investigamos, excepto nosotros, ¿dónde está el tiempo? ¿Dónde está el lugar:"Refiriéndose a espacio, traducido por Michael James al inglés como 'Where is time? Where is place?'"? Si somos un cuerpo, estaremos atrapados en tiempo y lugar. ¿Somos un cuerpo? Puesto que somos el uno, ahora, entonces y siempre, el uno en lugar, aquí, allí y en todas partes, hay nosotros, nosotros. Tiempo y lugar no existen.
+Cuando investigamos, excepto nosotros, ¿dónde está el tiempo? ¿Dónde está el lugar|"Refiriéndose a espacio, traducido por Michael James al inglés como 'Where is time? Where is place?'"? Si somos un cuerpo, estaremos atrapados en tiempo y lugar. ¿Somos un cuerpo? Puesto que somos el uno, ahora, entonces y siempre, el uno en lugar, aquí, allí y en todas partes, hay nosotros, nosotros. Tiempo y lugar no existen.
 
 Paráfrasis explicativa:
 
@@ -197,7 +202,7 @@ Cuando [nos] investigamos, excepto nosotros, ¿dónde está el tiempo? ¿Dónde 
 ---
 Verso 17
 
-Para los que no se conocen a sí mismo, para:"Omision intencional de la conjunción copulativa 'y', traducido por Michael James al inglés como 'For those who do not know themself, for those who have known themself'" los que se han conocido a sí mismo:"Uso intencional de la forma singular 'mismo', traducido por Michael James al inglés como 'themself'", el cuerpo es en realidad ‘yo’. Para los que no se conocen a sí mismo, ‘yo’ es solo la medida del cuerpo; para los que se han conocido a sí mismo dentro del cuerpo, uno mismo, ‘yo’, brilla sin límite. Considera que la diferencia entre ellos es solo esta.
+Para los que no se conocen a sí mismo, para|"Omision intencional de la conjunción copulativa 'y', traducido por Michael James al inglés como 'For those who do not know themself, for those who have known themself'" los que se han conocido a sí mismo|"Uso intencional de la forma singular 'mismo', traducido por Michael James al inglés como 'themself'", el cuerpo es en realidad ‘yo’. Para los que no se conocen a sí mismo, ‘yo’ es solo la medida del cuerpo; para los que se han conocido a sí mismo dentro del cuerpo, uno mismo, ‘yo’, brilla sin límite. Considera que la diferencia entre ellos es solo esta.
 
 Paráfrasis explicativa:
 
@@ -206,7 +211,7 @@ Para los que no se conocen a sí mismo [su verdadera naturaleza] y para los que 
 ---
 Verso 18
 
-Para los que no tienen conocimiento, para:"Omision intencional de la conjuncióno copulativa 'y', traducido por Michael James al inglés como 'For those who do not have knowledge, for those who have'" los que tienen, el mundo es real. Para los que no conocen, la realidad es la medida del mundo; para los que han conocido, la realidad es omnipresente desprovista de forma como el soporte para el mundo. Esta es la diferencia entre ellos. Considera.
+Para los que no tienen conocimiento, para|"Omision intencional de la conjuncióno copulativa 'y', traducido por Michael James al inglés como 'For those who do not have knowledge, for those who have'" los que tienen, el mundo es real. Para los que no conocen, la realidad es la medida del mundo; para los que han conocido, la realidad es omnipresente desprovista de forma como el soporte para el mundo. Esta es la diferencia entre ellos. Considera.
 
 Paráfrasis explicativa:
 
@@ -279,7 +284,7 @@ Agarrando forma [es decir, proyectando y percibiendo la forma de un cuerpo (comp
 ---
 Verso 26
 
-Si ego viene a la existencia, todo viene a la existencia; si ego no existe, todo:"Preferencia intencional de 'todo no existe' sobre 'nada existe', traducido al inglés por Michael James como 'everything does not exist'" no existe. Ego en sí lo es todo. Por lo tanto, conoce que únicamente investigar lo que es este ego es renunciar a todo.
+Si ego viene a la existencia, todo viene a la existencia; si ego no existe, todo|"Preferencia intencional de 'todo no existe' sobre 'nada existe', traducido al inglés por Michael James como 'everything does not exist'" no existe. Ego en sí lo es todo. Por lo tanto, conoce que únicamente investigar lo que es este ego es renunciar a todo.
 
 Paráfrasis explicativa:
 
@@ -324,7 +329,7 @@ Tan pronto como la mente alcanza el corazón [su núcleo y esencia, que es pura 
 ---
 Verso 31
 
-Para aquellos que son felicidad compuesta de eso, que se elevó destruyéndose a sí mismo, ¿qué una:"Refiriendose a 'una accion', traducido originalmente por Michael James como 'What one exists for doing?'" existe para hacer? No conocen nada distinto de sí mismo; ¿quién puede concebir su estado como ‘así’?
+Para aquellos que son felicidad compuesta de eso, que se elevó destruyéndose a sí mismo, ¿qué una|"Refiriendose a 'una accion', traducido originalmente por Michael James como 'What one exists for doing?'" existe para hacer? No conocen nada distinto de sí mismo; ¿quién puede concebir su estado como ‘así’?
 
 Paráfrasis explicativa:
 
@@ -333,7 +338,7 @@ Para aquellos que son [o están inmersos y llenos de felicidad en y como] tanmay
 ---
 Verso 32
 
-Cuando los Vēdas proclaman ‘Eso eres tú’, en lugar de ser uno mismo conociéndose uno mismo como ¿‘qué’?, pensar ‘yo soy esto, no eso’ es debido a la inexistencia de fortaleza:"Refiriendose a capacidad o fuerza, traducido por Michael James al inglés como 'non-existence of strength'", porque únicamente eso está siempre asentado como uno mismo.
+Cuando los Vēdas proclaman ‘Eso eres tú’, en lugar de ser uno mismo conociéndose uno mismo como ¿‘qué’?, pensar ‘yo soy esto, no eso’ es debido a la inexistencia de fortaleza|"Refiriendose a capacidad o fuerza, traducido por Michael James al inglés como 'non-existence of strength'", porque únicamente eso está siempre asentado como uno mismo.
 
 Paráfrasis explicativa:
 
@@ -406,7 +411,7 @@ Solo mientras uno diga ‘soy alguien atado’ [es decir, solo mientras uno se e
 ---
 Verso 40
 
-Si se dice que la liberación que uno experimentará es tres, forma, sin forma, forma-sin forma:"Uso del '-' para reflejar la conjunción de 'forma' [En inglés 'form'] y sin forma [En inglés 'formless']", yo diré\u003A La forma-ego, que distingue forma, sin forma, forma-sin forma , siendo destruida es liberación. Conoce.
+Si se dice que la liberación que uno experimentará es tres, forma, sin forma, forma-sin forma|"Uso del '-' para reflejar la conjunción de 'forma' [En inglés 'form'] y sin forma [En inglés 'formless']", yo diré\u003A La forma-ego, que distingue forma, sin forma, forma-sin forma , siendo destruida es liberación. Conoce.
 
 Paráfrasis explicativa:
 

@@ -1,10 +1,11 @@
-import { Component, Input, OnInit } from '@angular/core';
-import { Paragraph } from 'src/resources/types';
+import { Component, Input, OnInit, ViewEncapsulation } from '@angular/core';
+import { ContentPart, Paragraph } from 'src/resources/types';
 
 @Component({
   selector: 'app-paragraph',
   templateUrl: './paragraph.component.html',
-  styleUrls: ['./paragraph.component.scss']
+  styleUrls: ['./paragraph.component.scss'], 
+  encapsulation: ViewEncapsulation.None
 })
 export class ParagraphComponent implements OnInit {
   @Input()

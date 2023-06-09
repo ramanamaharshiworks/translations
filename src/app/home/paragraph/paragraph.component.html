@@ -1,13 +1,24 @@
 <div *ngIf="paragraph" class="app-paragraph">
   <p class="app-title">{{ paragraph.name }}</p>
-  <p class="app-highlight card app-font-large">
-    <span *ngFor="let contentPart of paragraph.content" class="app-paragraph-words-container"> <span
+  <p *ngIf="!paragraph.isTranslationSummary" class="app-highlight card app-font-large">
+    <ng-container *ngFor="let contentPart of paragraph.content" class="app-paragraph-words-container"><span
 	  #tooltip
 	  [matTooltipTouchGestures]="'on'"
 	  [matTooltip]="contentPart.tooltip ?? ''"
       [matTooltipPosition]="'above'"
       [matTooltipDisabled]="contentPart.tooltip == null"
-      [ngClass]="{ 'app-has-tooltip' : contentPart.tooltip }">{{ contentPart.text }} </span>&nbsp;</span>
+	  [innerHTML] = "contentPart.text"
+      [ngClass]="{ 'app-has-tooltip' : contentPart.tooltip }"></span></ng-container>
+  </p>
+  <p *ngIf="paragraph.isTranslationSummary" class="app-summary">
+    <ng-container *ngFor="let contentPart of paragraph.content" class="app-paragraph-words-container"> <span
+	  #tooltip
+	  [matTooltipTouchGestures]="'on'"
+	  [matTooltip]="contentPart.tooltip ?? ''"
+      [matTooltipPosition]="'above'"
+      [matTooltipDisabled]="contentPart.tooltip == null"
+	  [innerHTML] = "contentPart.text"
+      [ngClass]="{ 'app-has-tooltip' : contentPart.tooltip }"></span>&nbsp;</ng-container>
   </p>
   <br />
   <div *ngIf="paragraph.paraphrase && paragraph.paraphrase.length > 0" class="app-highlight card">
